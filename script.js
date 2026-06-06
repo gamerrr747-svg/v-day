@@ -17,12 +17,12 @@ const noMessages = [
     "I will be very sad... 😢",
     "Sure??? 💔",
     "Don't do this to me...",
-    "Last chance! 😭",
+    "Last chance! Апааай😭",
     "You can't catch me anyway 😜"
 ]
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
+    "сразу ма не🤣 try saying no first... I bet you want to know what happens 😏",
     "go on, hit no... just once 👀",
     "you're missing out 😈",
     "click no, I dare you 😏"
